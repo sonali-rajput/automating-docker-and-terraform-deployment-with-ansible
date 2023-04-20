@@ -56,28 +56,41 @@ ansible-playbook deploy-docker-newuser.yml
 
 ## Screenshots and Output
 ### Terraform Plan
-![Terraform Plan](docs\images\tf-plan-1.png)
-
+![Terraform Plan](docs/images/tf-plan-1.png)
+<br>
+<br>
 ### Terraform Apply
-![Terraform Apply](docs\images\tf-apply-2.png)
+![Terraform Apply](docs/images/tf-apply-2.png)
+<br>
+<br>
 
 ### ec2 instance
-![ec2 instance](docs\images\instance-3.png)
+![ec2 instance](docs/images/instance-3.png)
+<br>
+<br>
 
 ### ssh connection
-![ssh connection](docs\images\ssh-4.png)
+![ssh connection](docs/images/ssh-4.png)
+<br>
+<br>
 
 ### Ansible Playbook
-![Ansible Playbook](docs\images\ansible-playbook-5.png)
+![Ansible Playbook](docs/images/ansible-playbook-5.png)
+<br>
+<br>
 
 ### Check Containers
-![Check Containers](docs\images\containers-up-6.png)
+![Check Containers](docs/images/containers-up-6.png)
+<br>
+<br>
 
 ### Ansible in Tf
-![ansible in tf](docs\images\ansible-in-tf-7.png)
+![ansible in tf](docs/images/ansible-in-tf-7.png)
+<br>
+<br>
 
 ### Running app
-![Running app](docs\images\application-running-on-port-8.png)
+![Running app](docs/images/application-running-on-port-8.png)
 
 
 
