@@ -4,6 +4,8 @@ This project aims to automate the deployment of a Docker application using Terra
 
 ## Overview
 
+Tech versions used in this project: Terraform v1.4.5 and ansible [core 2.12.10] on linux_amd64  
+
 The project is divided into three main parts:
 
 - **Part 1: Ansible & Docker** - This part focuses on setting up the infrastructure for the project by installing the necessary tools like Docker, Docker & Docker Compose python module and Docker Compose. It also configures the Docker daemon and adds the `ec2-user`/`new-user` to the `docker` group.
